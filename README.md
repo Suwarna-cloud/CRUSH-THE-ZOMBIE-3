@@ -1,2 +1,1 @@
-# zombie-crush-3
-project solution of c31
+https://suwarna-cloud.github.io/CRUSH-THE-ZOMBIE-3/
